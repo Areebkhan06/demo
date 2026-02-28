@@ -115,7 +115,7 @@ export default function Home() {
         </div>
 
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight tracking-tight mb-6 text-slate-900">
-          <div>Your Gateway to{" "}<span className="bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent text-5xl md:text-6xl">Academic</span></div> <span className="bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent text-6xl">Success</span>
+          <div>Your Gateway to{" "}<span className="bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent text-5xl md:text-5xl">Academic</span></div> <span className="bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent text-6xl">Success</span>
         </h1>
 
         <p className="text-slate-500 text-sm sm:text-base max-w-lg mx-auto mb-10 leading-relaxed">
